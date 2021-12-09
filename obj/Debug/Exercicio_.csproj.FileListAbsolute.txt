@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Exercicio_\bin\Debug\Exercicio_.exe.config
+C:\Users\Usuario\Desktop\Exercicio_\bin\Debug\Exercicio_.exe
+C:\Users\Usuario\Desktop\Exercicio_\bin\Debug\Exercicio_.pdb
+C:\Users\Usuario\Desktop\Exercicio_\obj\Debug\Exercicio_.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Exercicio_\obj\Debug\Exercicio_.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Exercicio_\obj\Debug\Exercicio_.exe
+C:\Users\Usuario\Desktop\Exercicio_\obj\Debug\Exercicio_.pdb
+D:\Programaçao de algoritimos\Exemplos_Formataçao\bin\Debug\Exercicio_.exe.config
+D:\Programaçao de algoritimos\Exemplos_Formataçao\bin\Debug\Exercicio_.exe
+D:\Programaçao de algoritimos\Exemplos_Formataçao\bin\Debug\Exercicio_.pdb
+D:\Programaçao de algoritimos\Exemplos_Formataçao\obj\Debug\Exercicio_.csproj.AssemblyReference.cache
+D:\Programaçao de algoritimos\Exemplos_Formataçao\obj\Debug\Exercicio_.csproj.CoreCompileInputs.cache
+D:\Programaçao de algoritimos\Exemplos_Formataçao\obj\Debug\Exercicio_.exe
+D:\Programaçao de algoritimos\Exemplos_Formataçao\obj\Debug\Exercicio_.pdb
